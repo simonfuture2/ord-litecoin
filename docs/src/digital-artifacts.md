@@ -3,7 +3,7 @@ Digital Artifacts
 
 Imagine a physical artifact. A rare coin, say, held safe for untold years in
 the dark, secret clutch of a Viking hoard, now dug from the earth by your
-grasping hands. It…
+grasping hands. A physical artifact
 
 …has an owner. You. As long as you keep it safe, nobody can take it from you.
 
@@ -39,3 +39,26 @@ yours:
 
 The definition of a digital artifact is intended to reflect what NFTs *should*
 be, sometimes are, and what inscriptions *always* are, by their very nature.
+
+A digital artifact on the Bitcoin/Litecoin ordinal, or more commonly known as 
+the Bitcoin/Litecoin blockchain, refers to any piece of digital data that is 
+
+recorded and stored on the blockchain. The Bitcoin/Litecoin blockchain is a 
+decentralized, distributed ledger that contains a record of all Bitcoin transactions 
+that have ever taken place.
+
+When a Bitcoin/Litecoin transaction is initiated, it is broadcast to the network of nodes 
+that maintain the blockchain. These nodes then validate the transaction and add it to a block 
+
+of transactions that are linked together in chronological order. Each block contains a 
+cryptographic hash of the previous block, forming a chain of blocks (hence the name "blockchain").
+
+Digital artifacts on the Bitcoin/Litecoin blockchain can include transactions, smart contracts, 
+digital signatures, and other types of data. These artifacts are recorded and stored permanently 
+on the blockchain, and cannot be modified or deleted once they have been added to the chain.
+
+In addition to recording financial transactions, the Bitcoin/Litecoin blockchain can also be used 
+to store and verify other types of digital information, such as ownership records, digital identity data,
+
+and even art and music files. The potential uses for the blockchain are vast, and many developers 
+are exploring new ways to leverage this technology to solve a wide range of problems.
