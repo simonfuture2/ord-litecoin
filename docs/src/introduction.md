@@ -2,22 +2,22 @@ Introduction
 ============
 
 This handbook is a guide to ordinal theory. Ordinal theory concerns itself with
-satoshis, giving them individual identities and allowing them to be tracked,
+litoshis, giving them individual identities and allowing them to be tracked,
 transferred, and imbued with meaning.
 
-Satoshis, not bitcoin, are the atomic, native currency of the Bitcoin network.
-One bitcoin can be sub-divided into 100,000,000 satoshis, but no further.
+Litoshis, not litecoin, are the atomic, native currency of the Litecoin network.
+One litecoin can be sub-divided into 100,000,000 litoshis, but no further.
 
-Ordinal theory does not require a sidechain or token aside from Bitcoin, and
-can be used without any changes to the Bitcoin network. It works right now.
+Ordinal theory does not require a sidechain or token aside from Litecoin, and
+can be used without any changes to the Litecoin network. It works right now.
 
-Ordinal theory imbues satoshis with numismatic value, allowing them to be
+Ordinal theory imbues litoshis with numismatic value, allowing them to be
 collected and traded as curios.
 
-Individual satoshis can be inscribed with arbitrary content, creating unique
-Bitcoin-native digital artifacts that can be held in Bitcoin wallets and
-transferred using Bitcoin transactions. Inscriptions are as durable, immutable,
-secure, and decentralized as Bitcoin itself.
+Individual litoshis can be inscribed with arbitrary content, creating unique
+Litecoin-native digital artifacts that can be held in Litecoin wallets and
+transferred using Litecoin transactions. Inscriptions are as durable, immutable,
+secure, and decentralized as Litecoin itself.
 
 Other, more unusual use-cases are possible: off-chain colored-coins, public key
 infrastructure with key rotation, a decentralized replacement for the DNS. For
